@@ -1,5 +1,7 @@
 # Project Manager
 
+> Part of a larger agent platform. ▶ [Watch the 90-second overview](https://github.com/man-pi)
+
 The control room for a portfolio of local AI apps and MCP servers. It keeps one MCP server active in Claude Desktop at a time, starts and stops each app, creates new projects from templates, and keeps the port registry, backups and a record of every file change.
 
 > **Source code is private.** This repository shows what Project Manager does and how it is built. The code is available on request.
